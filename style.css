@@ -5,11 +5,12 @@
 }
 
 .main{
-    border: 5px solid red;
+    /* border: 5px solid red; */
     display: flex;
     justify-content: center;
     align-items: center;
     width: 100%;
+    background: #F8EDE3;
     height: 100vh;
 }
 
@@ -35,6 +36,7 @@
     position: absolute;
     top: 130px;
     left: -20px;
+    
 }
 
 #right{
